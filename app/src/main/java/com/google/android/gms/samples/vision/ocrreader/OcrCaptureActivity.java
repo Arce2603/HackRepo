@@ -147,6 +147,7 @@ public final class OcrCaptureActivity extends AppCompatActivity {
             }
         });
 
+
         btnPay.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -387,17 +388,16 @@ public final class OcrCaptureActivity extends AppCompatActivity {
     }
 
     public void userPage(){
-        Toast.makeText(this,"YA",Toast.LENGTH_LONG).show();
         Intent intent= new Intent(getApplicationContext(),UserAct.class);
         startActivity(intent);
-        finish();
+
     }
 
     public void BillAct() {
-        Toast.makeText(this,"Take a photo of your ticket",Toast.LENGTH_LONG).show();
         Intent intent= new Intent(getApplicationContext(),PhotoActivity.class);
         startActivity(intent);
         finish();
+
     }
 
     private class CaptureGestureListener extends GestureDetector.SimpleOnGestureListener {

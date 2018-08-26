@@ -9,7 +9,11 @@ import android.os.Environment;
 import android.provider.MediaStore;
 import android.support.v4.content.FileProvider;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -32,6 +36,8 @@ public class PhotoActivity extends AppCompatActivity {
     @BindView(R.id.tvPrice) TextView tvPrice;
     @BindView(R.id.tvTip) TextView tvTip;
     File photoFile;
+    RecyclerView rvItems;
+
 
     RecyclerAdapter adapter;
     ArrayList<item> cuenta;
@@ -40,21 +46,24 @@ public class PhotoActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_photo);
-//        Toast.makeText(this,"Take a photo of your ticket",Toast.LENGTH_LONG).show();
-//        cuenta = new ArrayList<>();
-//        adapter=new RecyclerAdapter(cuenta);
-//
-//        cuenta.add(new item("Fajitas de pollo",5.25));
-//        cuenta.add(new item("Brocheta de res", 5.80));
-//        cuenta.add(new item("Churro pescado", 5.15));
-//        cuenta.add(new item("Limonada", 1.10));
-//
-//        adapter.notifyDataSetChanged();
-//
-//        RecyclerView rvItems = (RecyclerView) findViewById(R.id.rvItems);
-//        rvItems.setLayoutManager(new LinearLayoutManager(this));
-//        rvItems.setAdapter(adapter);
+        Toast.makeText(this,"Take a photo of your ticket",Toast.LENGTH_LONG).show();
+        Button btnPhoto = (Button) findViewById(R.id.btnPhoto);
+        cuenta = new ArrayList<>();
+        adapter=new RecyclerAdapter(cuenta);
+
+        rvItems = (RecyclerView) findViewById(R.id.rvItems);
+        rvItems.setLayoutManager(new LinearLayoutManager(this));
+        rvItems.setAdapter(adapter);
+
+        btnPhoto.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                dispatchTakePictureIntent();
+            }
+        });
     }
+
+
 
 
 //**Managing the camera**//
@@ -108,6 +117,13 @@ public class PhotoActivity extends AppCompatActivity {
                 // RESIZE BITMAP, see section below
 
                 ivImage.setImageBitmap(takenImage);
+
+                cuenta.add(new item("Fajitas de pollo",5.25));
+                cuenta.add(new item("Brocheta de res", 5.80));
+                cuenta.add(new item("Churro pescado", 5.15));
+                cuenta.add(new item("Limonada", 1.10));
+
+                adapter.notifyDataSetChanged();
 
             } else { // Result was a failure
                 Toast.makeText(this, "Picture wasn't taken!", Toast.LENGTH_SHORT).show();
