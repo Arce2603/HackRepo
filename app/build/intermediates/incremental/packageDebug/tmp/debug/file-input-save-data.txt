@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Aug 26 01:59:28 CDT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Arce\\Desktop\\RepoHack\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

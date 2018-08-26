@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\38750174896c8ecdecdc6f688790939a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\362030eb8600a693ec47d7efedca99ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\e60ef1dd9aef327212bdefa635d31694\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\375be71e1bd2c42596981097993a92a8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\f1465af2a5c4d31e5e88231ebf3bcb5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\27b8099e5288b7cba5e0d0a97a1486fb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f585696cb344d7b3ba88aeadd8263baf\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\445190cfdf7d23efc69012a6919bf65b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\342e9b2d5350afb41c519ad4bd701932\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\056a9817f74b47843de3b023768d0f5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0f46821d5f1dd25616e188ec60c7d400\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\726c3cb5dfece8b48fd508c84f25d03e\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\24cdac39fee6622ca33df0fea919ddf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a9063f59c888833e1b857e9653f2ccda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fbb2c4f8fad6a2bd8bdd55d8abf06001\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f744816161704f9d0d4f07490fe8b144\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\37ff4408686bed23763d653db2e4584f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0d3223136de2bb418ed0a84925a1626f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0f1f007206cf6c613d4e643df6fe104a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c9e045a613538fc283a5be307ec08a19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3e5bcba640f978febb41fb885d4d9af1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cbfcdc6afb72ed4015d28d9620313b49\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8dd1f2787427b58d1eeced4cf8bdd7ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aea6912bc6b2f7e2199c4b20ca02eff7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e45ca23900f6a89cbd7e88359488336\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8e923417be67e7c07991261ff031eaee\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:10:5-36:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\38750174896c8ecdecdc6f688790939a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\38750174896c8ecdecdc6f688790939a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\e60ef1dd9aef327212bdefa635d31694\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\e60ef1dd9aef327212bdefa635d31694\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\375be71e1bd2c42596981097993a92a8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\375be71e1bd2c42596981097993a92a8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\27b8099e5288b7cba5e0d0a97a1486fb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\27b8099e5288b7cba5e0d0a97a1486fb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f585696cb344d7b3ba88aeadd8263baf\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f585696cb344d7b3ba88aeadd8263baf\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\445190cfdf7d23efc69012a6919bf65b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\445190cfdf7d23efc69012a6919bf65b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\342e9b2d5350afb41c519ad4bd701932\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\342e9b2d5350afb41c519ad4bd701932\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0f46821d5f1dd25616e188ec60c7d400\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0f46821d5f1dd25616e188ec60c7d400\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:16:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:14:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:13:9-42
+	android:debuggable
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:12:9-34
+	android:icon
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:15:9-38
+	android:allowBackup
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:18:9-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:19:9-21:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\342e9b2d5350afb41c519ad4bd701932\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\342e9b2d5350afb41c519ad4bd701932\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:20:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:22:9-24:35
+	android:value
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:24:13-32
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:23:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:28:13-38
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:27:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.BillActivity
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:35:9-59
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:35:19-47
+uses-sdk
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\38750174896c8ecdecdc6f688790939a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\38750174896c8ecdecdc6f688790939a\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\362030eb8600a693ec47d7efedca99ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\362030eb8600a693ec47d7efedca99ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\e60ef1dd9aef327212bdefa635d31694\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\e60ef1dd9aef327212bdefa635d31694\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\375be71e1bd2c42596981097993a92a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\375be71e1bd2c42596981097993a92a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\f1465af2a5c4d31e5e88231ebf3bcb5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\f1465af2a5c4d31e5e88231ebf3bcb5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\27b8099e5288b7cba5e0d0a97a1486fb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\27b8099e5288b7cba5e0d0a97a1486fb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f585696cb344d7b3ba88aeadd8263baf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f585696cb344d7b3ba88aeadd8263baf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\445190cfdf7d23efc69012a6919bf65b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\445190cfdf7d23efc69012a6919bf65b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\342e9b2d5350afb41c519ad4bd701932\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\342e9b2d5350afb41c519ad4bd701932\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\056a9817f74b47843de3b023768d0f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\056a9817f74b47843de3b023768d0f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0f46821d5f1dd25616e188ec60c7d400\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0f46821d5f1dd25616e188ec60c7d400\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\726c3cb5dfece8b48fd508c84f25d03e\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\726c3cb5dfece8b48fd508c84f25d03e\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\24cdac39fee6622ca33df0fea919ddf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\24cdac39fee6622ca33df0fea919ddf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a9063f59c888833e1b857e9653f2ccda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a9063f59c888833e1b857e9653f2ccda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fbb2c4f8fad6a2bd8bdd55d8abf06001\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fbb2c4f8fad6a2bd8bdd55d8abf06001\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f744816161704f9d0d4f07490fe8b144\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f744816161704f9d0d4f07490fe8b144\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\37ff4408686bed23763d653db2e4584f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\37ff4408686bed23763d653db2e4584f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0d3223136de2bb418ed0a84925a1626f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0d3223136de2bb418ed0a84925a1626f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0f1f007206cf6c613d4e643df6fe104a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0f1f007206cf6c613d4e643df6fe104a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c9e045a613538fc283a5be307ec08a19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c9e045a613538fc283a5be307ec08a19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3e5bcba640f978febb41fb885d4d9af1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3e5bcba640f978febb41fb885d4d9af1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cbfcdc6afb72ed4015d28d9620313b49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cbfcdc6afb72ed4015d28d9620313b49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8dd1f2787427b58d1eeced4cf8bdd7ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8dd1f2787427b58d1eeced4cf8bdd7ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aea6912bc6b2f7e2199c4b20ca02eff7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aea6912bc6b2f7e2199c4b20ca02eff7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e45ca23900f6a89cbd7e88359488336\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e45ca23900f6a89cbd7e88359488336\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8e923417be67e7c07991261ff031eaee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8e923417be67e7c07991261ff031eaee\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f585696cb344d7b3ba88aeadd8263baf\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f585696cb344d7b3ba88aeadd8263baf\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f585696cb344d7b3ba88aeadd8263baf\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f585696cb344d7b3ba88aeadd8263baf\AndroidManifest.xml:24:13-79
