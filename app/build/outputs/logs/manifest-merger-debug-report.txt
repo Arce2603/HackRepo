@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-40:12
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\38750174896c8ecdecdc6f688790939a\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:design:27.1.1] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\362030eb8600a693ec47d7efedca99ff\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\e60ef1dd9aef327212bdefa635d31694\AndroidManifest.xml:2:1-9:12
@@ -30,20 +30,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Arce\.gradle\c
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aea6912bc6b2f7e2199c4b20ca02eff7\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e45ca23900f6a89cbd7e88359488336\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8e923417be67e7c07991261ff031eaee\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
 		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:3:5-62
 		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-40:12
 		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-40:12
 		INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:11-69
@@ -58,7 +58,7 @@ ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\oc
 	android:name
 		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:22-62
 application
-ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:10:5-36:19
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:10:5-38:19
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\38750174896c8ecdecdc6f688790939a\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\38750174896c8ecdecdc6f688790939a\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Arce\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\e60ef1dd9aef327212bdefa635d31694\AndroidManifest.xml:7:5-20
@@ -122,9 +122,17 @@ ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\oc
 	android:name
 		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:32:27-74
 activity#com.google.android.gms.samples.vision.ocrreader.BillActivity
-ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:35:9-59
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:35:9-50
 	android:name
 		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:35:19-47
+activity#com.google.android.gms.samples.vision.ocrreader.UserAct
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:36:9-45
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:36:19-42
+activity#com.google.android.gms.samples.vision.ocrreader.PhotoActivity
+ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:37:9-60
+	android:name
+		ADDED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:37:19-48
 uses-sdk
 INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Arce\Desktop\RepoHack\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml

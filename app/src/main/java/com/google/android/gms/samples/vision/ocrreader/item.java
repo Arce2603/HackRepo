@@ -2,11 +2,11 @@ package com.google.android.gms.samples.vision.ocrreader;
 
 public class item {
     private String food;
-    private int price;
+    private double price;
 
     public item(){ }
 
-    public item(String fd, int pr){
+    public item(String fd, double pr){
         food=fd;
         price=pr;
     }
@@ -19,11 +19,11 @@ public class item {
         this.food = food;
     }
 
-    public int getPrice() {
+    public double getPrice() {
         return price;
     }
 
-    public void setPrice(int price) {
+    public void setPrice(double price) {
         this.price = price;
     }
 }

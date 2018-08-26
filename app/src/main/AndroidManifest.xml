@@ -32,7 +32,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BillActivity"></activity>
+        <activity android:name=".BillActivity" />
+        <activity android:name=".UserAct" />
+        <activity android:name=".PhotoActivity"></activity>
     </application>
 
 </manifest>

@@ -37,6 +37,7 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
 import com.google.android.gms.common.ConnectionResult;
@@ -90,11 +91,13 @@ public final class OcrCaptureActivity extends AppCompatActivity {
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
         setContentView(R.layout.ocr_capture);
-        rojos.add("importe");
-        rojos.add("buffalo");
 
-        favs.add("sprite");
-        favs.add("papas");
+        Button btnUser = (Button) findViewById(R.id.btnUser);
+        Button btnPay = (Button) findViewById(R.id.btnPay);
+        rojos.add("queso");
+        rojos.add("chimichurri");
+
+        favs.add("pollo");
      //   favs.add("sprite");
 
         preview = (CameraSourcePreview) findViewById(R.id.preview);
@@ -136,6 +139,20 @@ public final class OcrCaptureActivity extends AppCompatActivity {
                     }
                 };
         tts = new TextToSpeech(this.getApplicationContext(), listener);
+
+        btnUser.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                userPage();
+            }
+        });
+
+        btnPay.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                BillAct();
+            }
+        });
     }
 
     /**
@@ -367,6 +384,20 @@ public final class OcrCaptureActivity extends AppCompatActivity {
             Log.d(TAG,"no text detected");
         }
         return text != null;
+    }
+
+    public void userPage(){
+        Toast.makeText(this,"YA",Toast.LENGTH_LONG).show();
+        Intent intent= new Intent(getApplicationContext(),UserAct.class);
+        startActivity(intent);
+        finish();
+    }
+
+    public void BillAct() {
+        Toast.makeText(this,"Take a photo of your ticket",Toast.LENGTH_LONG).show();
+        Intent intent= new Intent(getApplicationContext(),PhotoActivity.class);
+        startActivity(intent);
+        finish();
     }
 
     private class CaptureGestureListener extends GestureDetector.SimpleOnGestureListener {

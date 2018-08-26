@@ -16,13 +16,18 @@
 package com.google.android.gms.samples.vision.ocrreader;
 
 import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.RectF;
 
 import com.google.android.gms.samples.vision.ocrreader.ui.camera.GraphicOverlay;
+import com.google.android.gms.vision.text.Text;
 import com.google.android.gms.vision.text.TextBlock;
+
+import java.util.List;
 
 /**
  * Graphic instance for rendering TextBlock position, size, and ID within an associated graphic
@@ -106,28 +111,35 @@ public class OcrGraphic extends GraphicOverlay.Graphic {
         for(int j=0; j<OcrCaptureActivity.rojos.size();j++){
             if(textBlock.getValue().toLowerCase().indexOf(OcrCaptureActivity.rojos.get(j))>=0){
                 rectPaint.setColor(COLORS[0]);
+                List<? extends Text> textComponents = textBlock.getComponents();
+                for(Text currentText : textComponents) {
+                    float left = translateX(currentText.getBoundingBox().right);
+                    float bottom = translateY(currentText.getBoundingBox().bottom);
+                    Bitmap bit = BitmapFactory.decodeResource(context.getResources() , R.drawable.war);
+                    canvas.drawBitmap(Bitmap.createScaledBitmap(bit, 50,50,false), left, bottom, textPaint);
+                    break;
+                }
             }
         }
-
-
 
         //detecta los alimentos favoritos
         for(int j=0; j<OcrCaptureActivity.favs.size();j++) {
             if (textBlock.getValue().toLowerCase().indexOf(OcrCaptureActivity.favs.get(j)) >= 0) {
                 rectPaint.setColor(COLORS[1]);
+                // Break the text into multiple lines and draw each one according to its own bounding box.
+                List<? extends Text> textComponents = textBlock.getComponents();
+                for(Text currentText : textComponents) {
+                    float left = translateX(currentText.getBoundingBox().right);
+                    float bottom = translateY(currentText.getBoundingBox().bottom);
+                    Bitmap bit = BitmapFactory.decodeResource(context.getResources() , R.drawable.goldstar);
+                    canvas.drawBitmap(Bitmap.createScaledBitmap(bit, 50,50,false), left, bottom, textPaint);
+                    break;
+                }
             }
         }
         rect.centerX();
         canvas.drawRect(rect, rectPaint);
 
-//        // Break the text into multiple lines and draw each one according to its own bounding box.
-//        List<? extends Text> textComponents = textBlock.getComponents();
-//        for(Text currentText : textComponents) {
-//            float left = translateX(currentText.getBoundingBox().left);
-//            float bottom = translateY(currentText.getBoundingBox().bottom);
-//            ByteArrayOutputStream stream = new ByteArrayOutputStream();
-//            Bitmap bit =BitmapFactory.decodeResource(context.getResources() , R.drawable.star);
-//            canvas.drawBitmap(bit, left, bottom, textPaint);
-//        }
+
     }
 }
